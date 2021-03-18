@@ -24,6 +24,7 @@
         "drupal/core-recommended": "^8.8",
         "drupal/core-vendor-hardening": "^8.8",
         "drupal/pathauto": "^1.8",
+        "drupal/redirect_after_login": "^2.7",
         "drupal/social_media": "^1.8",
         "drupal/webform": "^6.0",
         "drush/drush": "10.3.6",
